@@ -4,4 +4,4 @@ My homepage — https://deniseome.github.io
 
 Acknowledgments
 ---
-This is based entirely in Scott Vinkle's own homepage and his article on Medium. Thanks Scott!
+This is both inspired by and based entirely in Scott Vinkle's homepage following his step-by-step post on Medium. Thanks Scott!
